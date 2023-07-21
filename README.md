@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Projec HTML Project
+The Odin Project end of HTML lesson project
